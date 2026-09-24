@@ -178,5 +178,3 @@ if (age01 >= 18 && hasIdCard) {
 } else {
     console.log("You cannot enter the exam.");
 }
-
-// Rudrasakolkar
